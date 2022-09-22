@@ -1,0 +1,1 @@
+This is added in init() to demonstrate the timing of the init methodThis is added in destroy() to demonstrate the timing of the destroy method
